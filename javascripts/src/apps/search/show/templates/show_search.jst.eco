@@ -1,0 +1,38 @@
+<form style="margin-top:50px;">
+  <div class="row ">
+
+    <div class="large-4 large-offset-4 text-center panel">
+
+      <div class="row collapse">
+        <div class="small-10 columns">
+          <input type="text" class="form-control" name="ssn" id="ssn" placeholder="SSN" required="" autofocus="">
+        </div>
+        <div class="small-2 columns">
+          <a href="#" class="button postfix">QST</a>
+        </div>
+      </div>
+
+
+      <div >
+        <input type="text" class="form-control" name="last_name" id="last_name" placeholder="LAST NAME" required="" autofocus="">
+      </div>
+
+       <div >
+        <input type="text" class="form-control" name="account_number" id="account_number" placeholder="ACCOUNT NUMBER" required="" autofocus="">
+      </div>
+
+<div class="row collapse">
+        <div class="small-10 columns">
+          <input type="text" class="form-control" name="atm_card_number" id="atm_card_number" placeholder="ATM CARD NUMBER" required="" autofocus="">
+        </div>
+        <div class="small-2 columns">
+          <a href="#" class="button postfix">QST</a>
+        </div>
+      </div>
+
+      <button class="button small radius"  id="loginAction" type="submit">SEARCH</button>
+
+    </div>
+
+  </div>
+</form>

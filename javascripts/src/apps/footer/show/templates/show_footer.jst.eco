@@ -1,0 +1,10 @@
+<div id="footer">
+  <div class="row">
+    <div class="large-2 columns">DASHBOARD</div>
+    <div class="large-2 columns">PROFILE</div>
+    <div class="large-2 columns">ACCOUNTS</div>
+    <div class="large-2 columns">OPPORTUNITIES</div>
+    <div class="large-2 columns">EVENT HISTORY</div>
+    <div class="large-2 columns">...</div>
+  </div>
+</div>

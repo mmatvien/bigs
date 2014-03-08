@@ -1,0 +1,19 @@
+<form style="margin-top:50px;">
+  <div class="row ">
+
+    <div class="large-4 large-offset-4 text-center panel">
+
+      <div >
+        <input type="text" class="form-control" name="standard_id" id="standard_id" placeholder="Standard ID" required="" autofocus="">
+      </div>
+
+      <div >
+        <input type="password" class="form-control" name="password" id="password" placeholder="Password" required="">
+      </div>
+
+      <button class="button small radius"  id="loginAction" type="submit">LOG IN</button>
+
+    </div>
+
+  </div>
+</form>

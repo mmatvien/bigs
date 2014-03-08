@@ -1,0 +1,12 @@
+# Node Modules
+/node_modules/*
+
+# Compiled Assets
+/javascripts/application.js
+/javascripts/templates.js
+/stylesheets/style.css
+
+.grunt/
+.sass-cache/
+_SpecRunner.html
+.DS_Store

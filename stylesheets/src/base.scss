@@ -1,0 +1,20 @@
+/*Main screen layout*/
+
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -40px;
+}
+
+#push  { height: 40px; }
+#footer {
+  background-color: $footer_bg;
+  height: 40px;
+  padding: 12px;
+  p {
+  text-align:center; }
+}
+.centered {
+  margin-left: 50%;
+}
